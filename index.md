@@ -1,11 +1,11 @@
 ---
 layout: home
+title: Home
 ---
 
-# Welcome
+# Welcome to My Cool Project
 
-This site is built with [Jekyll](https://jekyllrb.com/)!
+This site is powered by Jekyll + Minima on Cloudflare Pages!
 
-## And this is a test header
-- with bulletpoints
-  - and sub bullets
+- Edit this file to change your homepage content.
+- Add more `.md` or `.html` files alongside it for other pages.
